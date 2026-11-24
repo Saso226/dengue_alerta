@@ -1,0 +1,20 @@
+🔴 ALERTA DE TENDÊNCIA — DENGUE | Semana de referência: 22/06/2026
+Status nacional: VERMELHO — possível surto em andamento
+
+• Casos na última semana: 8 (limiar esperado: 144)
+• Últimas 4 semanas: 203 casos vs. 135 nas 4 anteriores → tendência ALTA ↗ (+50%)
+• Semanas anômalas nas últimas 8: 2
+• Municipios em anomalia na última semana: 0 de 4823 monitorados (0%)
+
+Localidades de maior risco (municipio):
+  1. ES / 320240 — nível Alto | score 69 | 155 casos (+15500%) | 1 sem. anômalas (últ. 8)
+  2. GO / 522185 — nível Baixo | score 65 | 2 casos (+200%) | 0 sem. anômalas (últ. 8)
+  3. MT / 510790 — nível Baixo | score 65 | 2 casos (+200%) | 0 sem. anômalas (últ. 8)
+  4. MG / 314480 — nível Baixo | score 65 | 2 casos (+100%) | 0 sem. anômalas (últ. 8)
+  5. GO / 520140 — nível Baixo | score 65 | 3 casos (+50%) | 0 sem. anômalas (últ. 8)
+
+Condições climáticas (média das últimas semanas vs. média histórica):
+  • Precipitação (mm): nan vs. 17.6 histórico (+nan%)
+  → Chuva costuma anteceder os casos em ~8 semana(s) (rho = +0.35); monitore a chuva das últimas semanas para antecipar o próximo ciclo.
+
+Obs.: alerta estatístico exploratório (média móvel + desvios); não substitui a vigilância oficial.
